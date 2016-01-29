@@ -2,4 +2,4 @@
 Github Tutorial
 
 Walking throught the GityHub Tutorial
-With addtional updates
+With additional updates
